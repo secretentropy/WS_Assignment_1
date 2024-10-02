@@ -8,7 +8,7 @@
     <title>FORM DETAILS</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="stylecss.css" rel="stylesheet">
+    <link href="stylercss.css" rel="stylesheet">
 </head>
 <body>
     <div class="container-fluid px-1 py-5 mx-auto">
